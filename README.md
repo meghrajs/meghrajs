@@ -1,46 +1,37 @@
-# Meghraj Singh — SDET / QA Automation Engineer (Automation + Backend-Aware Quality)
+# Meghraj Singh — Senior SDET / QA Automation (UI + API + CI/CD)
 
-I build reliable automation systems across UI + API layers with a strong focus on CI/CD, debuggability, and stable releases.  
-I also work hands-on in **Laravel/PHP** to improve testability, build internal tooling, and validate complex backend flows (webhooks, billing, audit trails).
+Senior SDET focused on **reliable automation**, **fast feedback pipelines**, and **debuggable test systems**.  
+Backend-aware in **Laravel/PHP** (tooling + observability + validating complex flows like webhooks/billing).
 
-📌 **Start here:** https://github.com/meghrajs/sdet-portfolio
+🚀 **Start here:** https://github.com/meghrajs/sdet-portfolio
 
 ---
 
-## What I deliver
-- ✅ Maintainable automation frameworks (clean patterns, stable selectors, reusable utilities)
-- ✅ Flaky-test reduction (smart waits, retries strategy, deterministic test data)
-- ✅ Trustworthy CI pipelines (fast feedback, artifacts, traceability, repeatable runs)
-- ✅ Strong observability (logs, screenshots, traces, structured debugging)
-- ✅ Backend-aware testing (Laravel + MySQL + webhooks) to test deeper and debug faster
+## Quick Tour (what recruiters should open)
+1) **SDET Portfolio (index + case studies)**  
+   https://github.com/meghrajs/sdet-portfolio  
+2) **Playwright Enterprise Framework (TS) — UI + API + E2E + CI**  
+   https://github.com/meghrajs/playwright-enterprise-ts  
+3) **Resume Website Assessment — Cypress + Docker + Jenkinsfile**  
+   https://github.com/meghrajs/resume-website-assessment  
+4) **Laravel Log Viewer Lite — debugging utility**  
+   https://github.com/meghrajs/laravel-log-viewer-lite  
+
+---
+
+## Strengths (what I’m known for)
+- Flaky-test reduction (smart waits, deterministic data, reliability patterns)
+- Automation architecture (clean structure, reusable fixtures, maintainable suites)
+- CI/CD confidence (artifacts, traceability, repeatable runs)
+- Debuggability (logs, traces, screenshots, clear failure signals)
 
 ---
 
 ## Skills Snapshot
-**UI Automation:** Playwright • Cypress • Selenium  
-**API Testing:** REST validation • negative testing • data-driven scenarios  
-**CI/CD & DevOps:** GitHub Actions • Jenkins • Docker  
-**Backend (for testability & tooling):** Laravel • PHP • MySQL • Webhooks • Stripe  
-**Quality Engineering:** test strategy • reliability • scalable patterns  
-
----
-
-## Featured Work (Public)
-- **SDET Portfolio (case studies + highlights)**  
-  https://github.com/meghrajs/sdet-portfolio
-
-- **Resume Website Assessment — Cypress + Docker + Jenkinsfile**  
-  https://github.com/meghrajs/resume-website-assessment
-
-- **Laravel Log Viewer Lite — lightweight debugging utility**  
-  https://github.com/meghrajs/laravel-log-viewer-lite
-
----
-
-## Private Work (Redacted Case Studies)
-- Stripe Webhooks & Billing Reliability  
-- Transaction History & Audit Trails  
-See: https://github.com/meghrajs/sdet-portfolio/tree/main/case-studies
+**UI:** Playwright • Cypress • Selenium  
+**API:** REST validation • negative/edge coverage • data-driven tests  
+**CI/CD:** GitHub Actions • Jenkins • Docker  
+**Backend support:** Laravel • PHP • MySQL • Webhooks • Stripe  
 
 ---
 
