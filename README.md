@@ -1,6 +1,6 @@
-# Meghraj Singh — Senior SDET / QA Automation (UI + API + CI/CD)
+# Meghraj Singh - Senior SDET / QA Automation (UI + API + CI/CD)
 
-Senior SDET focused on **reliable automation**, **fast feedback pipelines**, and **debuggable test systems**.  
+Senior SDET focused on **reliable automation**, **fast feedback pipelines**, and **high-signal debugging** across **UI + API + E2E** testing.  
 Backend-aware in **Laravel/PHP** (tooling + observability + validating complex flows like webhooks/billing).
 
 🚀 **Start here:** https://github.com/meghrajs/sdet-portfolio
@@ -8,28 +8,35 @@ Backend-aware in **Laravel/PHP** (tooling + observability + validating complex f
 ---
 
 ## Quick Tour
-1) **SDET Portfolio (index + case studies)**  
-   https://github.com/meghrajs/sdet-portfolio  
-2) **Playwright Enterprise Framework (TS) — UI + API + E2E + CI**  
-   https://github.com/meghrajs/playwright-enterprise-ts  
-3) **Resume Website Assessment — Cypress + Docker + Jenkinsfile**  
-   https://github.com/meghrajs/resume-website-assessment  
-4) **Laravel Log Viewer Lite — debugging utility**  
-   https://github.com/meghrajs/laravel-log-viewer-lite  
+1) **SDET Portfolio (index + redacted case studies)**  
+   https://github.com/meghrajs/sdet-portfolio
+
+2) **Playwright Enterprise Framework (TypeScript) — UI + API + E2E + CI**  
+   https://github.com/meghrajs/playwright-enterprise-ts
+
+3) **Java Enterprise Framework — Selenium + REST Assured + CI**  
+   https://github.com/meghrajs/java-selenium-restassured-framework
+
+4) **Automation + CI Demo — Cypress + Docker + Jenkinsfile**  
+   https://github.com/meghrajs/resume-website-assessment
+
+5) **Developer Tooling — Laravel Log Viewer Lite**  
+   https://github.com/meghrajs/laravel-log-viewer-lite
 
 ---
 
 ## Strengths
 - Flaky-test reduction (smart waits, deterministic data, reliability patterns)
-- Automation architecture (clean structure, reusable fixtures, maintainable suites)
-- CI/CD confidence (artifacts, traceability, repeatable runs)
+- Framework architecture (clean structure, reusable fixtures/utilities, maintainable suites)
+- CI/CD confidence (artifacts, traceability, repeatable runs, clear ownership)
 - Debuggability (logs, traces, screenshots, clear failure signals)
+- Backend-aware testing (webhooks/billing/audit trails) to debug faster and test deeper
 
 ---
 
 ## Skills Snapshot
 **UI:** Playwright • Cypress • Selenium  
-**API:** REST validation • negative/edge coverage • data-driven tests  
+**API:** REST Assured • REST validation • negative/edge coverage • data-driven tests  
 **CI/CD:** GitHub Actions • Jenkins • Docker  
 **Backend support:** Laravel • PHP • MySQL • Webhooks • Stripe  
 
