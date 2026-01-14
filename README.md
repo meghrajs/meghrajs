@@ -7,7 +7,7 @@ Backend-aware in **Laravel/PHP** (tooling + observability + validating complex f
 
 ---
 
-## Quick Tour (what recruiters should open)
+## Quick Tour
 1) **SDET Portfolio (index + case studies)**  
    https://github.com/meghrajs/sdet-portfolio  
 2) **Playwright Enterprise Framework (TS) — UI + API + E2E + CI**  
@@ -19,7 +19,7 @@ Backend-aware in **Laravel/PHP** (tooling + observability + validating complex f
 
 ---
 
-## Strengths (what I’m known for)
+## Strengths
 - Flaky-test reduction (smart waits, deterministic data, reliability patterns)
 - Automation architecture (clean structure, reusable fixtures, maintainable suites)
 - CI/CD confidence (artifacts, traceability, repeatable runs)
