@@ -11,16 +11,20 @@ Backend-aware in **Laravel/PHP** (tooling + observability + validating complex f
 1) **SDET Portfolio (index + redacted case studies)**  
    https://github.com/meghrajs/sdet-portfolio
 
-2) **Playwright Enterprise Framework (TypeScript) — UI + API + E2E + CI**  
+2) **SuiteMate (SuiteCrafter) — Automation Framework Generator**  
+   https://github.com/meghrajs/suite-crafter  
+   Generates **Playwright / Cypress / Selenium** frameworks with **CI + Docker** templates.
+
+3) **Playwright Enterprise Framework (TypeScript) — UI + API + E2E + CI**  
    https://github.com/meghrajs/playwright-enterprise-ts
 
-3) **Java Enterprise Framework — Selenium + REST Assured + CI**  
+4) **Java Enterprise Framework — Selenium + REST Assured + CI**  
    https://github.com/meghrajs/java-selenium-restassured-framework
 
-4) **Automation + CI Demo — Cypress + Docker + Jenkinsfile**  
+5) **Automation + CI Demo — Cypress + Docker + Jenkinsfile**  
    https://github.com/meghrajs/resume-website-assessment
 
-5) **Developer Tooling — Laravel Log Viewer Lite**  
+6) **Developer Tooling — Laravel Log Viewer Lite**  
    https://github.com/meghrajs/laravel-log-viewer-lite
 
 ---
