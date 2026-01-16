@@ -4,6 +4,7 @@ Senior SDET focused on **reliable automation**, **fast feedback pipelines**, and
 Backend-aware in **Laravel/PHP** (tooling + observability + validating complex flows like webhooks/billing).
 
 🚀 **Start here:** https://github.com/meghrajs/sdet-portfolio
+🔗 **LinkedIn:** https://www.linkedin.com/in/meghraj-singh-604b0669/
 
 ---
 
